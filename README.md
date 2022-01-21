@@ -1,7 +1,7 @@
 ## Olá! Eu sou Jeferson Euler 
 -💻Hoje trabalho como Operador de Site<br>
 -🎓Estou estudando <img align="center" alt="Jeff-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg"> e <img align="center" alt="Jeff-CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg"><br>
--📧Contate-me pelo email: jefersoneuler@gmail.com
+-📧Contate-me pelo email: jefersoneuler93@gmail.com
 <div align="center">
   <a href="https://github.com/JefersonE17">
     <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JefersonE17&show_icons=true&theme=merko&include_all_commits=true&count_private=true"/>
